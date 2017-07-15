@@ -1,0 +1,7 @@
+config/env/**
+!config/env/template.js
+node_modules
+npm-debug.log
+*~
+*#
+.DS_STORE

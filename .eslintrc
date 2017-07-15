@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-use-before-define": [ "error", "nofunc" ],
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off"
+  },
+  "globals": {},
+  "extends": "airbnb-base"
+}
